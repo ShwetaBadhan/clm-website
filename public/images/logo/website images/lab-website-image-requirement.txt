@@ -1,0 +1,20 @@
+
+Website : diagnoedge
+url : https://diagnoedge.vibrantick.org/
+_______________________________
+favicon : 40x40
+logo :  195 x 70 
+logo white : 195 x 49
+popup img : 470 x 700
+---------------------------------
+1. Hero sliders : 1400 x 505 
+2. test images : 430 x 232
+3. icons for test : 100 x 100
+4. about us img : 374 x406
+5. about section icon : 100 x100
+6. gallery images : 767 x 767
+7. faq img : 767 x 380
+8. testimonial dummy img : 100x 100
+9. blog img : 830 x 583
+10. doctor dummy image : 580 x 680
+

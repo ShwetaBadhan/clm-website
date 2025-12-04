@@ -1,0 +1,21 @@
+Website : nvea art press
+--------------------------------------------
+Image Requirement
+==========================
+1. favicon : 40 x40
+
+home page : https://vibrantick.org/nvindia/
+1. sliders (2) : 1920 x600
+2. about img : 529 x665
+3. product imgs : 360 x220 
+4. how it work icons (4) : 80 x80 - 
+5. partner : 147 x 48
+6. testimonial icon : 45x45 -
+7. header call icon : 60 x60 -	
+8. testimonial dummy img : 132x132
+About us Page 
+1. common bradcrumb : 1920 x 450
+2. about img  : 520 x 714
+3. offers background : 1920 x523
+4. team img : 460 x 500
+5. faq side img  :  960 x 880 
