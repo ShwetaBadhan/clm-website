@@ -813,7 +813,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="bd-faq-page-shape d-none d-xxl-block"><img src="/images/faq/faq-shape.html" alt="shape"></div>
+                <!-- <div class="bd-faq-page-shape d-none d-xxl-block"><img src="/images/faq/faq-shape.html" alt="shape"></div> -->
             </div>
         </section>
         <!-- faq area end -->
