@@ -136,7 +136,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/1.webp" alt="English Course">
+                                            <img src="/images/projects/Success Stories resize_01.jpg" alt="English Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -164,7 +164,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/2.webp" alt="Spanish Course">
+                                            <img src="/images/projects/Success Stories resize_02.jpg" alt="Spanish Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -190,7 +190,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/3.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_03.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -215,7 +215,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/4.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_04.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -240,7 +240,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/5.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_05.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -265,7 +265,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/6.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_06.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -290,7 +290,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/7.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_07.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -315,7 +315,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/8.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_08.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -340,7 +340,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/9.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_09.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -365,7 +365,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/10.webp" alt="French Course">
+                                            <img src="/images/projects/Success Stories resize_010.jpg" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -415,7 +415,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/12.webp" alt="French Course">
+                                            <img src="/images/projects/12.png" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -440,7 +440,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/13.webp" alt="French Course">
+                                            <img src="/images/projects/13.png" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -465,7 +465,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/14.webp" alt="French Course">
+                                            <img src="/images/projects/14.png" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -490,7 +490,7 @@
                                 <div class="p-relative">
                                     <div class="bd-course-thumb">
                                         <a href="">
-                                            <img src="/images/projects/15.webp" alt="French Course">
+                                            <img src="/images/projects/15.png" alt="French Course">
                                         </a>
                                     </div>
                                     <div class="bd-course-meta d-flex align-items-center justify-content-between">
@@ -536,7 +536,7 @@
                         <div class="bd-testimonial-wrapper style-eight">
                             <div class="bd-testimonial-thumb-wrapper">
                                 <div class="bd-testimonial-thumb">
-                                    <img src="/images/testimonial/testimonial-thumb-01.webp" alt="image">
+                                    <img src="/images/projects/Testimonial.jpg" alt="image">
                                 </div>
                                 <div class="bd-testimonial-counter bounce-slide">
                                     <div class="bd-testimonial-counter-thumb">
@@ -684,22 +684,28 @@
                             </div>
                             <div class="bd-brand-wrapper style-six">
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/1.webp" alt="" class="w-100">
+                                    <img src="/images/partner/01.jpg" alt="" >
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/8.webp" alt="">
+                                    <img src="/images/partner/02.jpg" alt="">
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/2.webp" alt="">
+                                    <img src="/images/partner/03.jpg" alt="">
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/3.webp" alt="">
+                                    <img src="/images/partner/04.jpg" alt="">
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/4.webp" alt="">
+                                    <img src="/images/partner/05.jpg" alt="">
                                 </div>
                                 <div class="bd-trusted-partner">
-                                    <img src="/images/partner/6.webp" alt="">
+                                    <img src="/images/partner/06.jpg" alt="">
+                                </div>
+                                <div class="bd-trusted-partner">
+                                    <img src="/images/partner/07.jpg" alt="">
+                                </div>
+                                <div class="bd-trusted-partner">
+                                    <img src="/images/partner/08.jpg" alt="">
                                 </div>
                                
                             </div>

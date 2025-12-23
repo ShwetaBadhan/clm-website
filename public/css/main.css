@@ -11650,10 +11650,10 @@ code {
   z-index: 5;
   padding: 50px 0;
 }
-.bd-trusted-partner img{
+/* .bd-trusted-partner img{
   width: 160px;
   height: 31px;
-}
+} */
 .img-banner{
 border: 1px solid #ddd;
 }
