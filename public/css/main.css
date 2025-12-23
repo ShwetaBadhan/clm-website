@@ -23103,7 +23103,7 @@ code {
   right: 265px;
 }
 .bd-newsletter-wrapper.style-two .bd-newsletter-bg {
-  background-image: url(../images/newsletter/newsletter-two.html);
+  background-image: url("../images/bg/CTA background.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

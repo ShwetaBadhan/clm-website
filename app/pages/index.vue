@@ -49,7 +49,7 @@
                     <div class="col-xxl-6 col-xl-6 col-lg-12">
                         <div class="p-relative">
                             <div class="bd-banner-thumb">
-                                <img src="/images/banner/banner-3/banner-3-img-1.webp" alt="image">
+                                <img src="/images/banner/banner-1/Banner.png" alt="image" style="height:643px">
                             </div>
                             <div class="bd-banner-tag-wrapper">
                                 <div class="bd-banner-tag-one">
@@ -77,9 +77,9 @@
                     <div class="shape-3 p-absolute">
                         <img src="/images/banner/banner-3/banner-3-shape-3.webp" alt="shape">
                     </div>
-                    <div class="shape-4 p-absolute">
+                    <!-- <div class="shape-4 p-absolute">
                         <img src="/images/banner/banner-3/banner-3-shape-4.webp" alt="shape">
-                    </div>
+                    </div> -->
                     <div class="shape-5 p-absolute">
                         <img src="/images/banner/banner-3/banner-3-shape-5.webp" alt="shape">
                     </div>
@@ -192,7 +192,7 @@
                             <div class="bd-about-thumb-inner">
                                 <div class="bd-about-thumb-wrapper">
                                     <div class="bd-about-thumb">
-                                        <img src="/images/about/about-thumb-07.webp" alt="image">
+                                        <img src="/images/about/About Us.jpg" alt="image">
                                     </div>
                                 </div>
                             </div>
@@ -280,7 +280,7 @@
                         <div class="bd-course-wrapper style-eleven bg-box-shadow wow bdFadeInUp" data-wow-delay=".3s">
                             <div class="bd-course-thumb-wrapper p-relative">
                                 <div class="bd-course-thumb">
-                                    <a href="javascript:void(0)"><img src="/images/course/course-thumb-10.webp" alt="images"></a>
+                                    <a href="javascript:void(0)"><img src="/images/course/Commercial Lending Mastery.jpg" alt="images"></a>
                                 </div>
                                 <div class="bd-course-badge badge-left">
                                     <a class="bd-badge badge-primary" href="#">$9,997</a>
@@ -313,7 +313,7 @@
                         <div class="bd-course-wrapper style-eleven bg-box-shadow wow bdFadeInUp" data-wow-delay=".3s">
                             <div class="bd-course-thumb-wrapper p-relative">
                                 <div class="bd-course-thumb">
-                                    <a href="javascript:void(0)"><img src="/images/course/course-thumb-11.webp" alt="images"></a>
+                                    <a href="javascript:void(0)"><img src="/images/course/Basics of Commercial Lending.jpg" alt="images"></a>
                                 </div>
                                 <div class="bd-course-badge badge-left">
                                     <a class="bd-badge badge-danger" href="#">$2,997</a>
@@ -347,7 +347,7 @@
                         <div class="bd-course-wrapper style-eleven bg-box-shadow wow bdFadeInUp" data-wow-delay=".4s">
                             <div class="bd-course-thumb-wrapper p-relative">
                                 <div class="bd-course-thumb">
-                                    <a href="javascript:void(0)"><img src="/images/course/course-thumb-12.webp" alt="images"></a>
+                                    <a href="javascript:void(0)"><img src="/images/course/SBA & USDA Lending.jpg" alt="images"></a>
                                 </div>
                                 <div class="bd-course-badge badge-left">
                                     <a class="bd-badge badge-info" href="#">$2,997</a>
@@ -380,7 +380,7 @@
                         <div class="bd-course-wrapper style-eleven bg-box-shadow wow bdFadeInUp" data-wow-delay=".4s">
                             <div class="bd-course-thumb-wrapper p-relative">
                                 <div class="bd-course-thumb">
-                                    <a href="javascript:void(0)"><img src="/images/course/course-thumb-13.webp" alt="images"></a>
+                                    <a href="javascript:void(0)"><img src="/images/banner/Asset Based Lending.jpg" alt="images"></a>
                                 </div>
                                 <div class="bd-course-badge badge-left">
                                     <a class="bd-badge badge-success" href="#">$2,997</a>
@@ -412,7 +412,7 @@
                         <div class="bd-course-wrapper style-eleven bg-box-shadow wow bdFadeInUp" data-wow-delay=".4s">
                             <div class="bd-course-thumb-wrapper p-relative">
                                 <div class="bd-course-thumb">
-                                    <a href="javascript:void(0)"><img src="/images/course/course-thumb-13.webp" alt="images"></a>
+                                    <a href="javascript:void(0)"><img src="/images/course/Bridge, Fix & Flip, & Construction Lending.jpg" alt="images"></a>
                                 </div>
                                 <div class="bd-course-badge badge-left">
                                     <a class="bd-badge badge-success" href="#">$2,997</a>
@@ -444,7 +444,7 @@
                         <div class="bd-course-wrapper style-eleven bg-box-shadow wow bdFadeInUp" data-wow-delay=".4s">
                             <div class="bd-course-thumb-wrapper p-relative">
                                 <div class="bd-course-thumb">
-                                    <a href="javascript:void(0)"><img src="/images/course/course-thumb-13.webp" alt="images"></a>
+                                    <a href="javascript:void(0)"><img src="/images/course/Commercial DSCR & Permanent Lending.jpg" alt="images"></a>
                                 </div>
                                 <div class="bd-course-badge badge-left">
                                     <a class="bd-badge badge-success" href="#">$2,997</a>
@@ -789,7 +789,7 @@
                 <div class="row g-30 align-items-center justify-content-between justify-content-md-center">
                     <div class="col-xl-6 col-lg-6 col-md-10">
                         <div class="bd-faq-thumb">
-                            <img src="/images/faq/faq-thumb-02.webp" alt="image">
+                            <img src="/images/faq/FAQ img.jpg" alt="image">
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">
@@ -1085,12 +1085,12 @@
         <section class="bd-cta-area section-space">
             <div class="container">
                 <div class="bd-newsletter-wrapper style-three">
-                    <div class="bd-newsletter-bg" data-background="/images/bg/newsletter-bg-01.webp"></div>
+                    <div class="bd-newsletter-bg" data-background="/images/bg/CTAbackground.png"></div>
                     <div class="row align-items-center justify-content-between g-30">
                         <div class="col-xxl-5 col-xl-6 col-lg-6 col-12 d-none d-lg-block">
                             <div class="bd-newsletter-thumb-wrapper p-relative">
                                 <div class="thumb">
-                                    <img src="/images/newsletter/newsletter-thumb-02.webp" alt="image">
+                                    <img src="/images/about/Image.png" alt="image">
                                 </div>
                                 <div class="bd-newsletter-badge">
                                     <div class="bd-newsletter-badge-thumb">
@@ -1140,28 +1140,28 @@
                         <div class="bd-brand-wrapper style-five">
                             <div class="bd-brand-box">
                                 <div class="bd-brand-item">
-                                    <a href="#"><img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/ElmzMMMlbfMKckOpU0pT/media/68753d225016bd6855ca386f.png" alt="brand"></a>
+                                    <a href="#"><img src="/images/brand/01.jpg" alt="brand"></a>
                                 </div>
                                 <div class="bd-brand-item">
-                                    <a href="#"><img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/ElmzMMMlbfMKckOpU0pT/media/68753f3b5016bd1f6aca3c40.png" alt="brand"></a>
+                                    <a href="#"><img src="/images/brand/02.jpg" alt="brand"></a>
                                 </div>
                                 <div class="bd-brand-item">
-                                    <a href="#"><img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/ElmzMMMlbfMKckOpU0pT/media/68753916445918fbe305e8c7.png" alt="brand"></a>
+                                    <a href="#"><img src="/images/brand/03.jpg" alt="brand"></a>
                                 </div>
                                 <div class="bd-brand-item">
-                                    <a href="#"><img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/ElmzMMMlbfMKckOpU0pT/media/68753d3aad168e8ba9528989.png" alt="brand"></a>
+                                    <a href="#"><img src="/images/brand/04.jpg" alt="brand"></a>
                                 </div>
                                 <div class="bd-brand-item">
-                                    <a href="#"><img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/ElmzMMMlbfMKckOpU0pT/media/68794a63a648332431d15b84.png" alt="brand"></a>
+                                    <a href="#"><img src="/images/brand/05.jpg" alt="brand"></a>
                                 </div>
                                 <div class="bd-brand-item">
-                                    <a href="#"><img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/ElmzMMMlbfMKckOpU0pT/media/6875395de122b787dc4cdf62.png" alt="brand"></a>
+                                    <a href="#"><img src="/images/brand/06.jpg" alt="brand"></a>
                                 </div>
                                 <div class="bd-brand-item">
-                                    <a href="#"><img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/ElmzMMMlbfMKckOpU0pT/media/68753d105742b14df6c5efa9.png" alt="brand"></a>
+                                    <a href="#"><img src="/images/brand/07.jpg" alt="brand"></a>
                                 </div>
                                 <div class="bd-brand-item">
-                                    <a href="#"><img src="https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/ElmzMMMlbfMKckOpU0pT/media/6875400a5742b13a31c5f484.png" alt="brand"></a>
+                                    <a href="#"><img src="/images/brand/08.jpg" alt="brand"></a>
                                 </div>
                             </div>
                         </div>
@@ -1252,7 +1252,7 @@
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">
-                        <div class="bd-contact-form-thumb"><img src="/images/contact/contact-thumb.webp" alt="images"></div>
+                        <div class="bd-contact-form-thumb"><img src="/images/brand/ContactUS.jpg" alt="images"></div>
                     </div>
                 </div>
             </div>
