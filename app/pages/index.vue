@@ -214,9 +214,8 @@
                                             <span><i class="icon-online-class"></i></span>
                                         </div>
                                         <div class="bd-about-feature-content">
-                                            <h6 class="bd-about-feature-title">Smart Classrooms</h6>
-                                            <p class="bd-about-feature-descrip">Interactive whiteboards, projectors, and
-                                                digital content for an enhanced learning experience</p>
+                                            <h6 class="bd-about-feature-title">Elite Virtual Classrooms</h6>
+                                            <p class="bd-about-feature-descrip" align="justify">Access high-definition, interactive training modules designed to simulate real-world deal structuring and underwriting scenarios.</p>
                                         </div>
                                     </div>
                                     <div class="bd-about-feature-item">
@@ -224,9 +223,9 @@
                                             <span><i class="icon-online-learning"></i></span>
                                         </div>
                                         <div class="bd-about-feature-content">
-                                            <h6 class="bd-about-feature-title">Online Learning Platforms</h6>
-                                            <p class="bd-about-feature-descrip">Integrated with platforms like Google
-                                                Classroom, Microsoft Teams, and other LMS</p>
+                                            <h6 class="bd-about-feature-title">Integrated Business Tools</h6>
+                                            <p class="bd-about-feature-descrip" align="justify">Seamlessly sync your training with industry-standard platforms and CRM systems to manage your pipeline and lender communications.
+</p>
                                         </div>
                                     </div>
                                     <div class="bd-about-feature-item">
@@ -234,9 +233,9 @@
                                             <span><i class="icon-faculty-directory"></i></span>
                                         </div>
                                         <div class="bd-about-feature-content">
-                                            <h6 class="bd-about-feature-title">Extracurricular Programs</h6>
-                                            <p class="bd-about-feature-descrip">Wide range of clubs and activities,
-                                                including sports, arts, music, and debate teams</p>
+                                            <h6 class="bd-about-feature-title">Professional Networking Groups</h6>
+                                            <p class="bd-about-feature-descrip" align="justify">Join a high-level community of aspiring and established brokers, including specialized circles for real estate, SBA, and equipment leasing.
+</p>
                                         </div>
                                     </div>
                                     <div class="bd-about-feature-item">
@@ -244,9 +243,9 @@
                                             <span><i class="icon-shield-check"></i></span>
                                         </div>
                                         <div class="bd-about-feature-content">
-                                            <h6 class="bd-about-feature-title">Security and Safety</h6>
-                                            <p class="bd-about-feature-descrip">24/7 surveillance, secure entry points,
-                                                and emergency preparedness protocols</p>
+                                            <h6 class="bd-about-feature-title">Compliance & Risk Management</h6>
+                                            <p class="bd-about-feature-descrip" align="justify">Master the latest regulatory standards and emergency protocols to ensure every deal you close is secure and ethically sound.
+</p>
                                         </div>
                                     </div>
                                      <h6 class="bd-about-feature-title">Join us — and take control of your financial future.</h6>

@@ -1,4 +1,6 @@
+
 <template>
+    
        <!-- Modal -->
     <div class="modal fade" id="masterclassModal" tabindex="-1" aria-labelledby="masterclassModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-md">
@@ -36,7 +38,7 @@
                                 </label>
                                 <div class="input-group">
                                     <span class="input-group-text"><i class="fas fa-user"></i></span>
-                                    <input type="text" class="form-control" id="fullName" placeholder="Last Name" required>
+                                    <input type="text" class="form-control" id="lastName" placeholder="Last Name" required>
                                 </div>
                             </div>
                             
@@ -81,3 +83,72 @@
     </div>
 
 </template>
+
+<script>
+import Swal from "sweetalert2";   // 👈 IMPORT YAHAN AAYEGA
+
+export default {
+  mounted() {
+    const form = document.getElementById("masterclassForm");
+    if (!form) return;
+    form.addEventListener("submit", this.submitForm);
+  },
+
+  methods: {
+    async submitForm(e) {
+      e.preventDefault();
+
+      const form = e.target;
+
+      const data = {
+        first_name: form.querySelector('input[placeholder="First Name"]').value,
+        last_name: form.querySelector('input[placeholder="Last Name"]').value,
+        email: form.querySelector('#email').value,
+        phone: form.querySelector('#phone').value
+      };
+
+      try {
+        const res = await fetch(
+          "http://api-lendingcart.vibrantick.org/api/landing-page-leads/commercial-lending-mastery",
+          {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json"
+            },
+            body: JSON.stringify(data)
+          }
+        );
+
+        if (!res.ok) throw new Error("API Failed");
+
+        // ✅ SUCCESS TOAST
+        Swal.fire({
+          icon: "success",
+          title: "Registered Successfully 🎉",
+          text: "You are successfully enrolled.",
+          timer: 2500,
+          showConfirmButton: false
+        });
+
+        form.reset();
+
+        // Close modal
+        const modal = document.getElementById("masterclassModal");
+        if (modal && window.bootstrap) {
+          bootstrap.Modal.getInstance(modal)?.hide();
+        }
+
+      } catch (err) {
+        console.error(err);
+
+        // ❌ ERROR TOAST
+        Swal.fire({
+          icon: "error",
+          title: "Oops!",
+          text: "Something went wrong. Please try again."
+        });
+      }
+    }
+  }
+};
+</script>
