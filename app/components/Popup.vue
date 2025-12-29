@@ -21,7 +21,7 @@
                         <span class="feature-badge"><i class="fas fa-check me-1"></i> Q&A Session</span>
                     </div>
 
-                    <form id="masterclassForm">
+                    <form @submit.prevent="submitForm">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <label for="fullName" class="form-label">
@@ -29,7 +29,7 @@
                                 </label>
                                 <div class="input-group">
                                     <span class="input-group-text"><i class="fas fa-user"></i></span>
-                                    <input type="text" class="form-control" id="fullName" placeholder="First Name" required>
+                                    <input type="text" class="form-control" id="firstName" placeholder="First Name" required>
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -83,72 +83,54 @@
     </div>
 
 </template>
+<script setup>
+import Swal from "sweetalert2";
 
-<script>
-import Swal from "sweetalert2";   // 👈 IMPORT YAHAN AAYEGA
+const submitForm = async (e) => {
+  e.preventDefault();
 
-export default {
-  mounted() {
-    const form = document.getElementById("masterclassForm");
-    if (!form) return;
-    form.addEventListener("submit", this.submitForm);
-  },
+  const form = e.target;
 
-  methods: {
-    async submitForm(e) {
-      e.preventDefault();
+  const data = {
+    first_name: form.querySelector("#firstName").value,
+    last_name: form.querySelector("#lastName").value,
+    email: form.querySelector("#email").value,
+    phone: form.querySelector("#phone").value,
+    slug: "commercial-lending-mastery"
+  };
 
-      const form = e.target;
-
-      const data = {
-        first_name: form.querySelector('input[placeholder="First Name"]').value,
-        last_name: form.querySelector('input[placeholder="Last Name"]').value,
-        email: form.querySelector('#email').value,
-        phone: form.querySelector('#phone').value
-      };
-
-      try {
-        const res = await fetch(
-          "http://api-lendingcart.vibrantick.org/api/landing-page-leads/commercial-lending-mastery",
-          {
-            method: "POST",
-            headers: {
-              "Content-Type": "application/json"
-            },
-            body: JSON.stringify(data)
-          }
-        );
-
-        if (!res.ok) throw new Error("API Failed");
-
-        // ✅ SUCCESS TOAST
-        Swal.fire({
-          icon: "success",
-          title: "Registered Successfully 🎉",
-          text: "You are successfully enrolled.",
-          timer: 2500,
-          showConfirmButton: false
-        });
-
-        form.reset();
-
-        // Close modal
-        const modal = document.getElementById("masterclassModal");
-        if (modal && window.bootstrap) {
-          bootstrap.Modal.getInstance(modal)?.hide();
-        }
-
-      } catch (err) {
-        console.error(err);
-
-        // ❌ ERROR TOAST
-        Swal.fire({
-          icon: "error",
-          title: "Oops!",
-          text: "Something went wrong. Please try again."
-        });
+  try {
+    const res = await fetch(
+      "https://api-lendingcart.vibrantick.org/api/public/landing-page-leads/commercial-lending-mastery",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data)
       }
+    );
+
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error(`API failed: ${res.status} - ${text}`);
     }
+
+    Swal.fire({
+      icon: "success",
+      title: "Success",
+      text: "Registered successfully"
+    });
+
+    form.reset();
+
+  } catch (err) {
+    console.error(err);
+    Swal.fire({
+      icon: "error",
+      title: "Error",
+      text: "Something went wrong. Please try again."
+    });
   }
 };
 </script>
+
+
