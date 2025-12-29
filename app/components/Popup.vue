@@ -92,8 +92,8 @@ const submitForm = async (e) => {
   const form = e.target;
 
   const data = {
-    first_name: form.querySelector("#firstName").value,
-    last_name: form.querySelector("#lastName").value,
+    firstName: form.querySelector("#firstName").value,
+    lastName: form.querySelector("#lastName").value,
     email: form.querySelector("#email").value,
     phone: form.querySelector("#phone").value,
     slug: "commercial-lending-mastery"
@@ -101,7 +101,7 @@ const submitForm = async (e) => {
 
   try {
     const res = await fetch(
-      "https://api-lendingcart.vibrantick.org/api/public/landing-page-leads/commercial-lending-mastery",
+      "https://api-lendingcart.vibrantick.org/public/landing-leads/commercial-lending-mastery",
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
