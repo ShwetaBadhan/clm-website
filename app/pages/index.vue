@@ -192,7 +192,7 @@
                             <div class="bd-about-thumb-inner">
                                 <div class="bd-about-thumb-wrapper">
                                     <div class="bd-about-thumb">
-                                        <img src="/images/about/About Us.jpg" alt="image">
+                                        <img src="/images/about/AboutUs.jpg" alt="image">
                                     </div>
                                 </div>
                             </div>
